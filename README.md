@@ -66,11 +66,7 @@ Install the following tools before running the project:
 - Git
 
 ### 1. Clone the Repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
-```
+https://github.com/Katamlakshmikar033/Ecommerce-platform.git
 
 ### 2. Configure the Database
 
